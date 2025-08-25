@@ -21,3 +21,15 @@ On its own, this book won’t turn you into a professional software developer an
 - Extracting text from images and audio files
 
 These tasks are simple but time-consuming for humans, and they’re often so trivial(Important) or specific that there’s no ready-made software to perform them. Armed with a little bit of programming knowledge, however, you can have your computer do these tasks for you.
+
+> Program 1
+
+```python
+with open("Sample.text","r") as f:
+    user_password=input("Enter your password: ")
+    database_password=f.read()
+    if (user_password==database_password):
+        print("Access granted")
+    else:
+        print("Account blocked for 24 hours")
+```
