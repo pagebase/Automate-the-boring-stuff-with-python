@@ -19,4 +19,5 @@ On its own, this book won’t turn you into a professional software developer an
 - Checking your email and sending out prewritten responses
 - Creating databases and querying them for information
 - Extracting text from images and audio files
+
 These tasks are simple but time-consuming for humans, and they’re often so trivial or specific that there’s no ready-made software to perform them. Armed with a little bit of programming knowledge, however, you can have your computer do these tasks for you.
