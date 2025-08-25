@@ -62,3 +62,22 @@ How could LLMs help you as a programmer? What is obvious at this early stage is 
 LLMs make large, obvious mistakes and simple, subtle mistakes, however. If you use them as a learning aid, you must vigilantly check everything the LLM tells you, big or small. It’s entirely valid to choose to forgo learning with LLMs altogether. At this point, the effectiveness of using LLMs in education is unproven. We don’t know for sure in what situations LLMs are useful as learning tools, or even if their benefits outweigh their costs.
 
 It’s no wonder that so many buy into the hype of LLMs. We carry devices in our pockets that scientists of the last century would consider supercomputers. They connect us to a global network of information (and misinformation). They can identify their position anywhere on Earth by listening to satellites in outer space. Software can already do seemingly magical things, but software isn’t magic. And by learning to program, you’ll get a far more grounded idea of what computers are capable of versus what is just hype.
+
+# How to find Help?
+
+If you can’t find the answer by searching online, try asking people in a web forum such as Stack Overflow (https://stackoverflow.com) or the “learn programming” subreddit at https://reddit.com/r/learnprogramming. But keep in mind there are smart ways to ask programming questions that help others help you. To begin with, be sure to read the Frequently Asked Questions sections at these websites about the proper way to post questions.
+
+When asking programming questions, remember to do the following:
+
+- Explain what you are trying to do, not just what you did. This lets your helper know if you are on the wrong track.
+- Specify the point at which the error happens. Does it occur at the very start of the program or only after you do a certain action?
+- Copy and paste the entire error message and your code to https://pastebin.com or https://gist.github.com. These websites make it easy to share large amounts of code with people online, without losing any text formatting. You can then put the URL of the posted code in your email or forum post. For example, here are the locations of some pieces of code I’ve posted: https://pastebin.com/2k3LqDsd and https://gist.github.com/asweigart/6912168.
+- Explain what you’ve already tried to do to solve your problem. This tells people you’ve already put in some work to figure things out on your own.
+- List the version of Python you’re using. Also, say which operating system and version you’re running.
+- If the error came up after you made a change to your code, explain exactly what you changed.
+- Say whether you’re able to reproduce the error every time you run the program or whether it happens only after you perform certain actions. In the latter case, also explain what those actions are.
+
+Always follow good online etiquette as well. For example, don’t post your questions in all caps or make unreasonable demands of the people trying to help you.
+
+You can find more information on how to ask for programming help in the blog post at https://autbor.com/help. I love helping people discover Python. I write programming tutorials on my blog at https://inventwithpython.com/blog, and you can contact me with questions at al@inventwithpython.com, although you may get a faster response by posting your questions to https://reddit.com/r/inventwithpython.
+
