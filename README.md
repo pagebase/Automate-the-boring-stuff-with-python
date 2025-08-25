@@ -1,7 +1,7 @@
 # Table of content
 
 1. [This book audience](#This-book-audience)
-2. [AI Won’t Replace Programmers](#aI-won’t-replace-programmers)
+2. [AI Won’t Replace Programmers](https://github.com/pagebase/Automate-the-boring-stuff-with-python/tree/patch-1?tab=readme-ov-file#ai-wont-replace-programmers)
 
 ---
 # This book audience
