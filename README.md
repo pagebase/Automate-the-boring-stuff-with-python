@@ -1,6 +1,7 @@
 # Table of content
 
 1. [This book audience](#This-book-audience)
+2. [AI Won’t Replace Programmers](#aI-won’t-replace-programmers)
 
 ---
 # This book audience
