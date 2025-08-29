@@ -159,3 +159,19 @@ pyperclip.copy("Hello, world!")
 text = pyperclip.paste()
 print(text)
 ```
+
+> Exercise 1: Add Bullets to Wiki Markup
+> Copy list from anywhere and add `*` at beginning to each line.
+
+```python
+import pyperclip
+
+clipboard_data=pyperclip.paste()
+lines=clipboard_data.split("\n")
+
+for i in range(len(lines)):
+    lines[i]=f"* {lines[i]}"
+
+for i in lines:
+    print(i)
+```
