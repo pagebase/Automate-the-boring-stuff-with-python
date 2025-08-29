@@ -4,6 +4,7 @@
 1. [This book audience](#This-book-audience)
 2. [AI Won’t Replace Programmers](https://github.com/pagebase/Automate-the-boring-stuff-with-python/tree/patch-1?tab=readme-ov-file#ai-wont-replace-programmers)
 3. [How to find Help?](#how-to-find-help)
+4. [Copying and pasting clipboard data](#copying-and-pasting-clipboard-data)
 
 ---
 # Book content
