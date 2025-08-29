@@ -6,6 +6,8 @@
 3. [How to find Help?](#how-to-find-help)
 
 ---
+# Book content
+
 Chapter 1 - Python Basics
 
 Chapter 2 - if-else and Flow Control
