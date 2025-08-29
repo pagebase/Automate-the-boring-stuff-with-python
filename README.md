@@ -138,3 +138,23 @@ Always follow good online etiquette as well. For example, don’t post your ques
 
 You can find more information on how to ask for programming help in the blog post at https://autbor.com/help. I love helping people discover Python. I write programming tutorials on my blog at https://inventwithpython.com/blog, and you can contact me with questions at al@inventwithpython.com, although you may get a faster response by posting your questions to https://reddit.com/r/inventwithpython.
 
+---
+# Copying and pasting clipboard data
+
+`pypeclip` module used to copy data into clipboard and paste clipboard data out of clipboard. It has 2 methods:
+
+- `pyperclip.copy("Data to copy in clipboard")`: This method copy data into clipboard.
+
+- `pyperclip.paste()`: This method paste clipboard data out of clipboard.
+
+#### Example:
+```python
+import pyperclip
+
+# Copy text to clipboard
+pyperclip.copy("Hello, world!")
+
+# Paste text from clipboard
+text = pyperclip.paste()
+print(text)
+```
